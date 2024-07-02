@@ -1,0 +1,22 @@
+.weather-container{
+    /* background-color: #D02020; */
+    /* background: linear-gradient(90deg,#D02020,#FF896D); */
+    background-color: #FFFFFF;
+    height: 100vh;
+    width: 100%;
+}
+.bg-color{
+  color:#293b50;
+  width:40rem;
+  height:40rem;
+  color: #FFF;
+}
+.celcius button{
+    color: white;
+}
+.datetimeline{
+    border-left: 3px solid white;
+}
+.border-line{
+    border-bottom: 2px solid white;
+}
